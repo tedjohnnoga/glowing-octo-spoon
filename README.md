@@ -26,8 +26,9 @@ Simulations across twenty tests in the Collaborative Stress Suite confirm ro
 - Compare against baseline reasoning algorithms for calibration accuracy.
 
 ### Citation
-**Author:** [Your Name]  
+**Author:** TED JOHN NOGA 
 **Version:** v1.64 protocol v2 • **Date:** Jan 2026  
 **License:** MIT  
 
 Full documentation, pseudocode, and simulation data are included in the `/docs` and `/src` folders.  
+[v1.64 protocolv2.pdf](https://github.com/user-attachments/files/24690081/v1.64.protocolv2.pdf)
